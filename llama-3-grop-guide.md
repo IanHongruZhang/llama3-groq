@@ -24,13 +24,13 @@
 
 在groq的页面中，就可以尝试使用llama3和其他模型，效果非常不错，速度极快。
 
-![%E6%88%AA%E5%B1%8F2024-04-21%2012.19.35.png](attachment:%E6%88%AA%E5%B1%8F2024-04-21%2012.19.35.png)
+![image1.png](attachment:image1.png)
 
 #### 第二步
 
 如果要在jupyter或者terminal界面中使用llama，需要申请API，直接在groq的页面中申请
 
-![image.png](attachment:image.png)
+![image2.png](attachment:image2.png)
 
 ### 第三步
 
