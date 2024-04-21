@@ -40,14 +40,14 @@
 # 把key加入环境变量
 
 import os
-os.environ['GROQ_API_KEY']='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'
+os.environ['GROQ_API_KEY']='GROQ_API_KEY'
 os.environ.get('GROQ_API_KEY')
 ```
 
 
 
 
-    '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'
+    'GROQ_API_KEY'
 
 
 
