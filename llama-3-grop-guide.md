@@ -183,7 +183,7 @@ from interpreter import interpreter
 
 # 参数设置
 interpreter.llm.model = "groq/llama3-70b-8192"
-interpreter.llm.api_key = "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"
+interpreter.llm.api_key = "your_api_key"
 interpreter.llm.context_window = 200000
 interpreter.llm.max_tokens = 8192
 interpreter.llm.max_output = 1000
